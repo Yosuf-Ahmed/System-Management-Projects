@@ -513,3 +513,10 @@ int main(void){
     }
 
 }
+
+
+
+// to Enhance
+// 1.admin trying add book, but this book is already exist
+// 2.admin tring add books more than the allowed copies
+// 3. increasing number of book copies
